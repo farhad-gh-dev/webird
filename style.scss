@@ -19,6 +19,10 @@ $footer-bg: #3c4e60;
   }
 }
 
+html.sr .load-hidden {
+  visibility: hidden;
+}
+
 html {
   scroll-behavior: smooth;
 }
