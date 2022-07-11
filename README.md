@@ -2,7 +2,7 @@
 
 A Single Page Application for Educational Services & Content. In case of any use of this project, contribution to my [github account](https://github.com/farhad-gh-dev) is needed.
 
-![enter image description here](https://github.com/farhad-gh-dev/webird/blob/master/media/screenshot.png)
+![webird screenshot](https://github.com/farhad-gh-dev/webird/blob/master/media/screenshot.png)
 
 ## Tech stack
 
