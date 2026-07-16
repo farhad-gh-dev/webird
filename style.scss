@@ -215,7 +215,7 @@ a:focus {
       text-transform: capitalize;
       display: inline-block;
       margin-bottom: 1.5rem;
-      word-spacing: none;
+      word-spacing: normal;
 
       @include md-size() {
         font-size: 3rem;

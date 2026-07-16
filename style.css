@@ -225,7 +225,7 @@ a:focus {
   text-transform: capitalize;
   display: inline-block;
   margin-bottom: 1.5rem;
-  word-spacing: none;
+  word-spacing: normal;
 }
 
 @media (max-width: 992px) {
